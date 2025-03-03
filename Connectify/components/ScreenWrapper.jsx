@@ -16,6 +16,7 @@ import { useSafeAreaInsets } from "react-native-safe-area-context";
             Children
         }
      </View>
+     
    )
  }
 
